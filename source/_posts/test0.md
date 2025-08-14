@@ -6,5 +6,3 @@ tags: TEST
 ## Test0
 
 This is a test message.
-
-This is a test photo.![alt text](EESAST.png)
